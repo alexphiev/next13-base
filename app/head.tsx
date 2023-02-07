@@ -1,3 +1,7 @@
+/**
+ * head.js should only return to the following tags: <title>, <meta>, <link>
+ * @src https://beta.nextjs.org/docs/api-reference/file-conventions/head
+ */
 export default function Head() {
   return (
     <>
